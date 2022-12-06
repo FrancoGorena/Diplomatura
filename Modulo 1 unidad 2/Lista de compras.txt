@@ -3,3 +3,6 @@ fiambre
 leche
 frutas
 soda
+gaseosa
+vino
+verduras
